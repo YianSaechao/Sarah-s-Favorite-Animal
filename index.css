@@ -1,0 +1,30 @@
+body {
+    padding: 100px;
+}
+.class-container {
+    background-color: #8bcae7;
+    padding: 10px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 300px;
+    background-color: rgb(160, 220, 160); 
+    color: aliceblue;
+    font-weight: bold;
+}
+.container {
+    overflow:hidden;
+    padding-top: 20px;
+
+}
+.image {
+    float: left;
+    margin-right: 10px;
+}
+
+.paragraph {
+    display: inline-block;
+    width: calc(50% - 10px);
+    vertical-align: top;
+}
